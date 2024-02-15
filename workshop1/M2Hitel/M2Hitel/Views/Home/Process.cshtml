@@ -1,0 +1,38 @@
+﻿@using M2Hitel.ViewModels
+@model HitelViewModel
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <h1>@Model.Nev hitelkonstrukciója</h1>
+    <table>
+        <tr>
+            <th>Év</th>
+            <th>Tőketartozás</th>
+            <th>Kamatfizetés</th>
+            <th>Tőketörlesztés</th>
+            <th>Adósságszolgálat</th>
+        </tr>
+        @{
+            for (int i = 0; i < Model.Matrix.GetLength(0); i++)
+            {
+                @: <tr>
+                    @: <td>@Model.Matrix[i, 0] .év</td>
+                    @: <td>@Model.Matrix[i, 1] e Ft</td>
+                    @: <td>@Model.Matrix[i, 2] e Ft</td>
+                    @: <td>@Model.Matrix[i, 3] e Ft</td>
+                    @: <td>@Model.Matrix[i, 4] e Ft</td>
+                @: </tr>
+            }
+        }
+    </table>
+
+    <h3>Teljes visszafizetés: @Model.OsszBefizetes</h3>
+
+</body>
+</html>
+

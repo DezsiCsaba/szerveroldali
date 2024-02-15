@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop1\\Feladat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAC4E16-11A7-48D5-98AE-AE82C235E74E}|Feladat\\Feladat.csproj|c:\\users\\dezsics\\source\\repos\\dezsicsaba\\szerveroldali\\workshop1\\feladat\\feladat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCAC4E16-11A7-48D5-98AE-AE82C235E74E}|Feladat\\Feladat.csproj|solutionrelative:feladat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAC4E16-11A7-48D5-98AE-AE82C235E74E}|Feladat\\Feladat.csproj|c:\\users\\dezsics\\source\\repos\\dezsicsaba\\szerveroldali\\workshop1\\feladat\\feladat\\views\\home\\process.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCAC4E16-11A7-48D5-98AE-AE82C235E74E}|Feladat\\Feladat.csproj|solutionrelative:feladat\\views\\home\\process.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAC4E16-11A7-48D5-98AE-AE82C235E74E}|Feladat\\Feladat.csproj|c:\\users\\dezsics\\source\\repos\\dezsicsaba\\szerveroldali\\workshop1\\feladat\\feladat\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCAC4E16-11A7-48D5-98AE-AE82C235E74E}|Feladat\\Feladat.csproj|solutionrelative:feladat\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAC4E16-11A7-48D5-98AE-AE82C235E74E}|Feladat\\Feladat.csproj|c:\\users\\dezsics\\source\\repos\\dezsicsaba\\szerveroldali\\workshop1\\feladat\\feladat\\viewmodels\\tevekenysegviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCAC4E16-11A7-48D5-98AE-AE82C235E74E}|Feladat\\Feladat.csproj|solutionrelative:feladat\\viewmodels\\tevekenysegviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAC4E16-11A7-48D5-98AE-AE82C235E74E}|Feladat\\Feladat.csproj|c:\\users\\dezsics\\source\\repos\\dezsicsaba\\szerveroldali\\workshop1\\feladat\\feladat\\models\\hitelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCAC4E16-11A7-48D5-98AE-AE82C235E74E}|Feladat\\Feladat.csproj|solutionrelative:feladat\\models\\hitelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Process.cshtml",
+              "DocumentMoniker": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop1\\Feladat\\Feladat\\Views\\Home\\Process.cshtml",
+              "RelativeDocumentMoniker": "Feladat\\Views\\Home\\Process.cshtml",
+              "ToolTip": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop1\\Feladat\\Feladat\\Views\\Home\\Process.cshtml",
+              "RelativeToolTip": "Feladat\\Views\\Home\\Process.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-14T15:59:41.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TevekenysegViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop1\\Feladat\\Feladat\\ViewModels\\TevekenysegViewModel.cs",
+              "RelativeDocumentMoniker": "Feladat\\ViewModels\\TevekenysegViewModel.cs",
+              "ToolTip": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop1\\Feladat\\Feladat\\ViewModels\\TevekenysegViewModel.cs",
+              "RelativeToolTip": "Feladat\\ViewModels\\TevekenysegViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T15:37:14.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HitelModel.cs",
+              "DocumentMoniker": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop1\\Feladat\\Feladat\\Models\\HitelModel.cs",
+              "RelativeDocumentMoniker": "Feladat\\Models\\HitelModel.cs",
+              "ToolTip": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop1\\Feladat\\Feladat\\Models\\HitelModel.cs",
+              "RelativeToolTip": "Feladat\\Models\\HitelModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T15:07:27.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop1\\Feladat\\Feladat\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Feladat\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop1\\Feladat\\Feladat\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Feladat\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-14T14:57:05.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop1\\Feladat\\Feladat\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Feladat\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop1\\Feladat\\Feladat\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Feladat\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T15:12:47.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+﻿@using Feladat.ViewModels
+@model List<TevekenysegViewModel>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <div style="margin-left:30px; padding: 30px; display: flex; align-items:center; justify-content: center; flex-direction:column">
+        <h3>Napi tevékenységek listája:</h3>
+
+        <p>elemek száma: @Model.Count</p>
+
+        @foreach (var item in Model)
+        {
+            @:<div style="border=1px solid black; margin: 5px">
+                @:<p>@item.tevekenysegNev: @(item.befejezes - item.idotartam):00 - @item.befejezes:00</p>
+            @:</div>
+        }
+
+        <a href="/">Take me back</a>
+    </div>
+</body>
+</html>
+

@@ -1,0 +1,58 @@
+﻿@model M2Hitel.Models.HitelModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div style="margin-left:30px; padding: 30px; display: flex; align-items:center; justify-content: center; flex-direction:column">
+        <h2>Day planner</h2>
+        <hr />
+        <form 
+            action="/Home/Process" method="post"
+        >
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                @Html.LabelFor(t => t.tevekenyseg)
+                <br />
+                <input name="tevekenyseg" class="form-control" />
+                <span asp-validation-for="tevekenyseg" class="text-danger"></span>
+            </div>
+
+            <div class="form-group" style="margin-top: 8px">
+                @Html.LabelFor(t => t.idotartam)
+                <br />
+                <input type="number" name="idotartam" class="form-control" />
+                <span asp-validation-for="idotartam" class="text-danger"></span>
+            </div>
+
+            <div class="form-group" style="margin-top: 8px">
+                @Html.LabelFor(t => t.befejezes)
+                <br />
+                <input type="number" name="befejezes" class="form-control" />
+                <span asp-validation-for="befejezes" class="text-danger"></span>
+            </div>
+
+            <div style="width:100%; margin: 10px 0 5px 0; display:flex; justify-content:center; align-items:center">
+                <button 
+                    type="submit"
+                    style="width: 90%"
+                >Mentés</button>
+            </div>
+        </form>
+    </div>
+
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+</body>
+</html>

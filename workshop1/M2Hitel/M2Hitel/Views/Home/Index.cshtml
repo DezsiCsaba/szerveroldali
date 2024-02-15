@@ -1,0 +1,54 @@
+﻿@model M2Hitel.Models.HitelModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+
+<h4>HitelModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="process" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                @Html.LabelFor(t => t.Nev)
+                <input asp-for="Nev" class="form-control" />
+                <span asp-validation-for="Nev" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(t => t.R)
+                <input asp-for="R" class="form-control" />
+                <span asp-validation-for="R" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(t => t.PV)
+                <input asp-for="PV" class="form-control" />
+                <span asp-validation-for="PV" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(t => t.T)
+                <input asp-for="T" class="form-control" />
+                <span asp-validation-for="T" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+</body>
+</html>
