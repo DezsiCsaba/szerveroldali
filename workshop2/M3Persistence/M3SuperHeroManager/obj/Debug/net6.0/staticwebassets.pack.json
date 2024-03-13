@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop2\\M3Persistence\\M3SuperHeroManager\\wwwroot\\images\\18d81022-ce5f-4ac2-8807-15b7963c9353.jpg",
+      "PackagePath": "staticwebassets\\images\\18d81022-ce5f-4ac2-8807-15b7963c9353.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop2\\M3Persistence\\M3SuperHeroManager\\wwwroot\\images\\227e6b8d-694d-4b62-a8df-3db88a73ae68.jpg",
+      "PackagePath": "staticwebassets\\images\\227e6b8d-694d-4b62-a8df-3db88a73ae68.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop2\\M3Persistence\\M3SuperHeroManager\\wwwroot\\images\\32fc7a76-502b-4587-bdbe-32f90f675d6c.jpg",
+      "PackagePath": "staticwebassets\\images\\32fc7a76-502b-4587-bdbe-32f90f675d6c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop2\\M3Persistence\\M3SuperHeroManager\\wwwroot\\images\\597ab5f3-9de3-4cd0-a450-831cb9c6ef8b.jpg",
+      "PackagePath": "staticwebassets\\images\\597ab5f3-9de3-4cd0-a450-831cb9c6ef8b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop2\\M3Persistence\\M3SuperHeroManager\\wwwroot\\images\\6c47b758-c3dd-455f-bad3-a66826830aa0.jpg",
+      "PackagePath": "staticwebassets\\images\\6c47b758-c3dd-455f-bad3-a66826830aa0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop2\\M3Persistence\\M3SuperHeroManager\\wwwroot\\images\\9868710d-0840-49ee-8319-5ca0930e4231.jpg",
+      "PackagePath": "staticwebassets\\images\\9868710d-0840-49ee-8319-5ca0930e4231.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop2\\M3Persistence\\M3SuperHeroManager\\wwwroot\\images\\c8308075-9107-4a53-93d2-063722852ec5.jpg",
+      "PackagePath": "staticwebassets\\images\\c8308075-9107-4a53-93d2-063722852ec5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop2\\M3Persistence\\M3SuperHeroManager\\wwwroot\\images\\e0d7bf2b-5734-4231-b1d6-8f1cff3ff033.jpg",
+      "PackagePath": "staticwebassets\\images\\e0d7bf2b-5734-4231-b1d6-8f1cff3ff033.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.M3SuperHeroManager.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.M3SuperHeroManager.props",
+      "PackagePath": "build\\M3SuperHeroManager.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.M3SuperHeroManager.props",
+      "PackagePath": "buildMultiTargeting\\M3SuperHeroManager.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.M3SuperHeroManager.props",
+      "PackagePath": "buildTransitive\\M3SuperHeroManager.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

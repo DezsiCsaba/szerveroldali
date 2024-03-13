@@ -1,0 +1,33 @@
+﻿@using M3SuperHeroManager.Models
+@model SuperHero
+
+
+@section head{
+    <title>Create new Hero!</title>
+    <meta name="keywords" content="create, hero creator, heroeditor">
+}
+
+<h1>Create your Hero</h1>
+
+<form action="create" method="post" enctype="multipart/form-data" style="display: flex; flex-direction: column">
+    @Html.LabelFor(t => t.Name)
+    @Html.EditorFor(t => t.Name)
+    @Html.ValidationMessageFor(t => t.Name)
+
+    @Html.LabelFor(t => t.Power)
+    @Html.EditorFor(t => t.Power)
+    @Html.ValidationMessageFor(t => t.Power)
+
+    @Html.LabelFor(t => t.Alien)
+    @Html.CheckBoxFor(t => t.Alien)
+
+    @Html.LabelFor(t => t.Side)   
+    @Html.DropDownListFor(t => t.Side, Html.GetEnumSelectList(typeof(HeroSide)))
+
+    
+    <label>Picture</label>
+    <input type="file" name="picturedata"/>
+
+    <input type="submit" value="Create" /> 
+
+</form>

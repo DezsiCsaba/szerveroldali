@@ -1,0 +1,58 @@
+﻿@using M6SessionManagement.Models
+@using Newtonsoft.Json
+@model IEnumerable<M6SessionManagement.Models.Person>
+@{
+    Layout = null;
+    var current = JsonConvert.DeserializeObject<Person>(Context.Session.GetString("person"));
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>View</title>
+</head>
+<body>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Age)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Job)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Age)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Job)
+            </td>
+            <td>
+                        @if (item.Name == current.Name && item.Age == current.Age && item.Job == current.Job)
+                        {
+                            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                        }
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</body>
+</html>

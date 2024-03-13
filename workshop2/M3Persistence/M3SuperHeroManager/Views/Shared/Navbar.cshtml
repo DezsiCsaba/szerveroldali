@@ -1,0 +1,6 @@
+﻿@using M3SuperHeroManager.Data
+@inject ISuperHeroRepository repo
+<nav>
+        <a href="/Hero/Index">List Heroes (@repo.Read().Count())</a>
+        <a href="/Hero/Create">New Hero</a>
+</nav>

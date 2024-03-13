@@ -1,0 +1,43 @@
+﻿@using M3SuperHeroManager.Helpers
+@using M3SuperHeroManager.Models
+@model IEnumerable<SuperHero>
+@inject TableBuilder tb
+
+@section head{
+    <title>List your Heroes!</title>
+    <meta name="keywords" content="list, heroes, herocollection">
+}
+
+<h1>SuperHeroes</h1>
+
+@Html.Raw(tb.BuildTable(Model))
+
+<hr />
+<table>
+    <tr>
+        <th>Picture</th>
+        <th>Name</th>
+        <th>Power</th>
+        <th>Alien?</th>
+        <th>Side</th>
+        <th>Actions</th>
+    </tr>
+    @foreach(var item in Model){
+        @:<tr>
+        @: <td><img height="100" src="@Url.Action("GetImage", "Hero", new {id = item.Id})"/></td>
+        @: <td>@item.Name</td>
+        @: <td>@item.Power</td>
+        @: <td>@item.Alien</td>
+        @: <td>@item.Side</td>
+        @: <td>
+        @:    <a href="/hero/delete?name=@item.Name">Delete</a>
+        @:    <a href="/hero/update?name=@item.Name">Update</a>
+        @: </td>
+        @: </tr>
+    }
+</table>
+
+
+
+<a href="/hero/create">Create new hero</a>
+

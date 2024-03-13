@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop3Online\\M6SessionManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2806272-A95F-400E-A893-81B8A83C7514}|M6SessionManagement\\M6SessionManagement.csproj|c:\\users\\dezsics\\source\\repos\\dezsicsaba\\szerveroldali\\workshop3online\\m6sessionmanagement\\m6sessionmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2806272-A95F-400E-A893-81B8A83C7514}|M6SessionManagement\\M6SessionManagement.csproj|solutionrelative:m6sessionmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2806272-A95F-400E-A893-81B8A83C7514}|M6SessionManagement\\M6SessionManagement.csproj|c:\\users\\dezsics\\source\\repos\\dezsicsaba\\szerveroldali\\workshop3online\\m6sessionmanagement\\m6sessionmanagement\\views\\home\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2806272-A95F-400E-A893-81B8A83C7514}|M6SessionManagement\\M6SessionManagement.csproj|solutionrelative:m6sessionmanagement\\views\\home\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2806272-A95F-400E-A893-81B8A83C7514}|M6SessionManagement\\M6SessionManagement.csproj|c:\\users\\dezsics\\source\\repos\\dezsicsaba\\szerveroldali\\workshop3online\\m6sessionmanagement\\m6sessionmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2806272-A95F-400E-A893-81B8A83C7514}|M6SessionManagement\\M6SessionManagement.csproj|solutionrelative:m6sessionmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2806272-A95F-400E-A893-81B8A83C7514}|M6SessionManagement\\M6SessionManagement.csproj|c:\\users\\dezsics\\source\\repos\\dezsicsaba\\szerveroldali\\workshop3online\\m6sessionmanagement\\m6sessionmanagement\\views\\home\\job.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2806272-A95F-400E-A893-81B8A83C7514}|M6SessionManagement\\M6SessionManagement.csproj|solutionrelative:m6sessionmanagement\\views\\home\\job.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2806272-A95F-400E-A893-81B8A83C7514}|M6SessionManagement\\M6SessionManagement.csproj|c:\\users\\dezsics\\source\\repos\\dezsicsaba\\szerveroldali\\workshop3online\\m6sessionmanagement\\m6sessionmanagement\\views\\home\\age.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2806272-A95F-400E-A893-81B8A83C7514}|M6SessionManagement\\M6SessionManagement.csproj|solutionrelative:m6sessionmanagement\\views\\home\\age.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2806272-A95F-400E-A893-81B8A83C7514}|M6SessionManagement\\M6SessionManagement.csproj|c:\\users\\dezsics\\source\\repos\\dezsicsaba\\szerveroldali\\workshop3online\\m6sessionmanagement\\m6sessionmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2806272-A95F-400E-A893-81B8A83C7514}|M6SessionManagement\\M6SessionManagement.csproj|solutionrelative:m6sessionmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop3Online\\M6SessionManagement\\M6SessionManagement\\Views\\Home\\List.cshtml",
+              "RelativeDocumentMoniker": "M6SessionManagement\\Views\\Home\\List.cshtml",
+              "ToolTip": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop3Online\\M6SessionManagement\\M6SessionManagement\\Views\\Home\\List.cshtml",
+              "RelativeToolTip": "M6SessionManagement\\Views\\Home\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T13:18:23.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Job.cshtml",
+              "DocumentMoniker": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop3Online\\M6SessionManagement\\M6SessionManagement\\Views\\Home\\Job.cshtml",
+              "RelativeDocumentMoniker": "M6SessionManagement\\Views\\Home\\Job.cshtml",
+              "ToolTip": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop3Online\\M6SessionManagement\\M6SessionManagement\\Views\\Home\\Job.cshtml",
+              "RelativeToolTip": "M6SessionManagement\\Views\\Home\\Job.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T13:18:23.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Age.cshtml",
+              "DocumentMoniker": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop3Online\\M6SessionManagement\\M6SessionManagement\\Views\\Home\\Age.cshtml",
+              "RelativeDocumentMoniker": "M6SessionManagement\\Views\\Home\\Age.cshtml",
+              "ToolTip": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop3Online\\M6SessionManagement\\M6SessionManagement\\Views\\Home\\Age.cshtml",
+              "RelativeToolTip": "M6SessionManagement\\Views\\Home\\Age.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T13:18:23.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop3Online\\M6SessionManagement\\M6SessionManagement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "M6SessionManagement\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop3Online\\M6SessionManagement\\M6SessionManagement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "M6SessionManagement\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T13:18:23.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop3Online\\M6SessionManagement\\M6SessionManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "M6SessionManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop3Online\\M6SessionManagement\\M6SessionManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "M6SessionManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAwDQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T13:18:23.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop3Online\\M6SessionManagement\\M6SessionManagement\\Program.cs",
+              "RelativeDocumentMoniker": "M6SessionManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop3Online\\M6SessionManagement\\M6SessionManagement\\Program.cs",
+              "RelativeToolTip": "M6SessionManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T13:18:23.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

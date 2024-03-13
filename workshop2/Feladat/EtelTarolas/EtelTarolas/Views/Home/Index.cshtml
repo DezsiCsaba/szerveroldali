@@ -1,0 +1,52 @@
+﻿@{
+    Layout = null;
+}
+@using EtelTarolas.Helpers
+@using EtelTarolas.Models
+@model IEnumerable<Food>
+@inject TableBuilder tb
+
+@Html.Raw(tb.BuildTable(Model))
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div style="margin-left:30px; padding: 30px; display: flex; align-items:center; justify-content: center; flex-direction:column">
+        <h2>Food Storing</h2>
+        
+        <div style="display:flex; flex-direction:row;">
+            <p>Foods in the database</p>
+            @* <button>Add Food</button> *@
+        </div>
+
+
+        <a href="/home/create">Add food here</a>
+        
+        <div style="margin:10px">
+            <table>
+                <tr>
+                    <th>Name</th>
+                    <th>Kcal</th>
+                    <th>Cathegory</th>
+                    <th>Price</th>
+                </tr>
+                @foreach(var item in Model){
+                    @:<tr>
+                    @: <td>@item.Name</td>
+                    @: <td>@item.Kcal</td>
+                    @: <td>@item.Cathegory</td>
+                    @: <td>@item.Price</td>
+                    @: </tr>
+                }
+            </table>
+        </div>
+    </div>
+    
+
+</body>
+</html>

@@ -1,0 +1,41 @@
+﻿@using EtelTarolas.Models
+@model Food
+
+<html>
+<head>
+    <title>Register food!</title>
+    <meta name="keywords" content="create, food creator">
+</head>
+<body>
+    <div>
+        <h1>Register the food here</h1>
+        <form action="create"
+              method="post"
+              enctype="multipart/form-data"
+              style="margin:10px; padding:15px; display:flex; flex-direction:column">
+
+            @Html.LabelFor(t => t.Name)
+            @Html.EditorFor(t => t.Name)
+            @Html.ValidationMessageFor(t => t.Name)
+
+            @Html.LabelFor(t => t.Kcal)
+            @Html.EditorFor(t => t.Kcal)
+            @Html.ValidationMessageFor(t => t.Kcal)
+
+            @Html.LabelFor(t => t.Price)
+            @Html.EditorFor(t => t.Price)
+            @Html.ValidationMessageFor(t => t.Price)
+
+            @Html.LabelFor(t => t.Cathegory)
+            @Html.EditorFor(t => t.Cathegory)
+            @Html.ValidationMessageFor(t => t.Cathegory)
+
+            <input 
+                type="submit"
+                style="margin: 10px; border-radius:3px"
+            />
+        </form>
+    </div>
+</body>
+</html>
+

@@ -1,0 +1,9 @@
+﻿@using M6SessionManagement.Models
+@model Person
+
+<form method="post">
+    <label>Age</label>
+    <input type="number" name="age" />
+    <input type="hidden" name="name" value="@Model.Name" />
+    <input type="submit" value="Save" />
+</form>

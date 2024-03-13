@@ -1,0 +1,14 @@
+﻿@using M6SessionManagerSajat.Models
+@model Person
+
+<form method="post">
+    <label>Job</label>
+    <input type="text" name="job" />
+
+    <input type="hidden" name="name" value="@Model.Name" />
+    <input type="hidden" name="age" value="@Model.Age" />
+
+    <input type="submit" value="Save" />
+</form>
+
+

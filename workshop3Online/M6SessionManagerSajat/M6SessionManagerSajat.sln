@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M6SessionManagerSajat", "M6SessionManagerSajat\M6SessionManagerSajat.csproj", "{3F10BC76-3365-451E-A6D7-5CB5F941BEF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F10BC76-3365-451E-A6D7-5CB5F941BEF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F10BC76-3365-451E-A6D7-5CB5F941BEF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F10BC76-3365-451E-A6D7-5CB5F941BEF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F10BC76-3365-451E-A6D7-5CB5F941BEF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99AB339A-78B8-47C9-B7FC-6207F36B5AFB}
+	EndGlobalSection
+EndGlobal

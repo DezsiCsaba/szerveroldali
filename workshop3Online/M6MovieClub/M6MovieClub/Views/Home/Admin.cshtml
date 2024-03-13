@@ -1,0 +1,19 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model IEnumerable<Movie>
+<ul>
+@foreach(var movie in Model.GroupBy(t =>t.Title)){
+    <li class="title">@movie.Key
+        <ul>
+                @foreach(var item in movie)
+                {
+                    <li class="owner">
+                        <img src="@Url.Action("GetImage", "Home", new {userid = item.OwnerId})"  />
+                        @item.Owner.FirstName @item.Owner.LastName
+                        <a href="AdminDelete?uid=@item.Uid">Delete</a>
+                    </li>
+                }
+        </ul>
+    </li>
+}
+
+</ul>

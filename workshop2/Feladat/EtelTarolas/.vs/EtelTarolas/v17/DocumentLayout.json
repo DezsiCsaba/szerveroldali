@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop2\\Feladat\\EtelTarolas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BF6015-CC41-46A1-8F93-2E493E257521}|EtelTarolas\\EtelTarolas.csproj|c:\\users\\dezsics\\source\\repos\\dezsicsaba\\szerveroldali\\workshop2\\feladat\\eteltarolas\\eteltarolas\\eteltarolas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8BF6015-CC41-46A1-8F93-2E493E257521}|EtelTarolas\\EtelTarolas.csproj|solutionrelative:eteltarolas\\eteltarolas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BF6015-CC41-46A1-8F93-2E493E257521}|EtelTarolas\\EtelTarolas.csproj|c:\\users\\dezsics\\source\\repos\\dezsicsaba\\szerveroldali\\workshop2\\feladat\\eteltarolas\\eteltarolas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BF6015-CC41-46A1-8F93-2E493E257521}|EtelTarolas\\EtelTarolas.csproj|solutionrelative:eteltarolas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BF6015-CC41-46A1-8F93-2E493E257521}|EtelTarolas\\EtelTarolas.csproj|c:\\users\\dezsics\\source\\repos\\dezsicsaba\\szerveroldali\\workshop2\\feladat\\eteltarolas\\eteltarolas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8BF6015-CC41-46A1-8F93-2E493E257521}|EtelTarolas\\EtelTarolas.csproj|solutionrelative:eteltarolas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BF6015-CC41-46A1-8F93-2E493E257521}|EtelTarolas\\EtelTarolas.csproj|c:\\users\\dezsics\\source\\repos\\dezsicsaba\\szerveroldali\\workshop2\\feladat\\eteltarolas\\eteltarolas\\helpers\\tablebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BF6015-CC41-46A1-8F93-2E493E257521}|EtelTarolas\\EtelTarolas.csproj|solutionrelative:eteltarolas\\helpers\\tablebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BF6015-CC41-46A1-8F93-2E493E257521}|EtelTarolas\\EtelTarolas.csproj|c:\\users\\dezsics\\source\\repos\\dezsicsaba\\szerveroldali\\workshop2\\feladat\\eteltarolas\\eteltarolas\\helpers\\showtableattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BF6015-CC41-46A1-8F93-2E493E257521}|EtelTarolas\\EtelTarolas.csproj|solutionrelative:eteltarolas\\helpers\\showtableattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BF6015-CC41-46A1-8F93-2E493E257521}|EtelTarolas\\EtelTarolas.csproj|c:\\users\\dezsics\\source\\repos\\dezsicsaba\\szerveroldali\\workshop2\\feladat\\eteltarolas\\eteltarolas\\data\\foodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BF6015-CC41-46A1-8F93-2E493E257521}|EtelTarolas\\EtelTarolas.csproj|solutionrelative:eteltarolas\\data\\foodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BF6015-CC41-46A1-8F93-2E493E257521}|EtelTarolas\\EtelTarolas.csproj|c:\\users\\dezsics\\source\\repos\\dezsicsaba\\szerveroldali\\workshop2\\feladat\\eteltarolas\\eteltarolas\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8BF6015-CC41-46A1-8F93-2E493E257521}|EtelTarolas\\EtelTarolas.csproj|solutionrelative:eteltarolas\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EtelTarolas.csproj",
+              "DocumentMoniker": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop2\\Feladat\\EtelTarolas\\EtelTarolas\\EtelTarolas.csproj",
+              "RelativeDocumentMoniker": "EtelTarolas\\EtelTarolas.csproj",
+              "ToolTip": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop2\\Feladat\\EtelTarolas\\EtelTarolas\\EtelTarolas.csproj",
+              "RelativeToolTip": "EtelTarolas\\EtelTarolas.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-28T17:08:30.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TableBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop2\\Feladat\\EtelTarolas\\EtelTarolas\\Helpers\\TableBuilder.cs",
+              "RelativeDocumentMoniker": "EtelTarolas\\Helpers\\TableBuilder.cs",
+              "ToolTip": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop2\\Feladat\\EtelTarolas\\EtelTarolas\\Helpers\\TableBuilder.cs",
+              "RelativeToolTip": "EtelTarolas\\Helpers\\TableBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:54:19.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop2\\Feladat\\EtelTarolas\\EtelTarolas\\Program.cs",
+              "RelativeDocumentMoniker": "EtelTarolas\\Program.cs",
+              "ToolTip": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop2\\Feladat\\EtelTarolas\\EtelTarolas\\Program.cs",
+              "RelativeToolTip": "EtelTarolas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T14:43:25.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShowTableAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop2\\Feladat\\EtelTarolas\\EtelTarolas\\Helpers\\ShowTableAttribute.cs",
+              "RelativeDocumentMoniker": "EtelTarolas\\Helpers\\ShowTableAttribute.cs",
+              "ToolTip": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop2\\Feladat\\EtelTarolas\\EtelTarolas\\Helpers\\ShowTableAttribute.cs",
+              "RelativeToolTip": "EtelTarolas\\Helpers\\ShowTableAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:55:41.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FoodRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop2\\Feladat\\EtelTarolas\\EtelTarolas\\Data\\FoodRepository.cs",
+              "RelativeDocumentMoniker": "EtelTarolas\\Data\\FoodRepository.cs",
+              "ToolTip": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop2\\Feladat\\EtelTarolas\\EtelTarolas\\Data\\FoodRepository.cs",
+              "RelativeToolTip": "EtelTarolas\\Data\\FoodRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:35:08.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop2\\Feladat\\EtelTarolas\\EtelTarolas\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "EtelTarolas\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop2\\Feladat\\EtelTarolas\\EtelTarolas\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "EtelTarolas\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T15:54:26.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop2\\Feladat\\EtelTarolas\\EtelTarolas\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EtelTarolas\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dezsics\\source\\repos\\DezsiCsaba\\szerveroldali\\workshop2\\Feladat\\EtelTarolas\\EtelTarolas\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EtelTarolas\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T14:51:04.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

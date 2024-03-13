@@ -1,0 +1,29 @@
+﻿@using M3SuperHeroManager.Models
+@model SuperHero
+
+@section head{
+    <title>Update your Hero!</title>
+}
+
+<h1>Update your Hero (@Model.Name)</h1>
+
+<form action="update" method="post" style="display: flex; flex-direction: column">
+    @*@Html.LabelFor(t => t.Name)
+    @Html.EditorFor(t => t.Name)
+    @Html.ValidationMessageFor(t => t.Name)*@
+    @Html.HiddenFor(t => t.Name)
+
+    @Html.LabelFor(t => t.Power)
+    @Html.EditorFor(t => t.Power)
+    @Html.ValidationMessageFor(t => t.Power)
+
+    @Html.LabelFor(t => t.Alien)
+    @Html.CheckBoxFor(t => t.Alien)
+
+    @Html.LabelFor(t => t.Side)   
+    @Html.DropDownListFor(t => t.Side, Html.GetEnumSelectList(typeof(HeroSide)))
+   
+
+    <input type="submit" value="Update" /> 
+
+</form>
